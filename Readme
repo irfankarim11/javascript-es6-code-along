@@ -1,0 +1,81 @@
+# JavaScript ES6+ Code Along Notes
+
+## About
+
+This repository contains my JavaScript ES6+ practice files and notes. I created it while learning modern JavaScript concepts through coding exercises and examples.
+
+The purpose of this repository is to improve my understanding of JavaScript and keep my practice code organized in one place.
+
+---
+
+## Topics Covered
+
+- Prototype Chain
+- Destructuring
+- Spread Operator
+- Optional Chaining
+- Generators
+- Iterators
+- ES Modules
+- CommonJS
+
+---
+
+## Files
+
+- `prototype-chain.js` – Practice on how the prototype chain works in JavaScript.
+- `destructuring.js` – Examples of array and object destructuring.
+- `spread.js` – Using the spread operator with arrays and objects.
+- `optional-chaining.js` – Examples of safely accessing nested properties.
+- `generators.js` – Basic generator functions using `yield`.
+- `iterators.js` – Understanding built-in and custom iterators.
+- `modules/` – Simple examples of ES Modules and CommonJS.
+
+---
+
+## What I Learned
+
+After completing these exercises, I can:
+
+- Explain the JavaScript prototype chain.
+- Use ES6+ features like destructuring, spread operator, and optional chaining.
+- Understand how generators and iterators work.
+- Know the difference between ES Modules and CommonJS.
+
+---
+
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/javascript-es6-code-along.git
+```
+
+Run any file using Node.js:
+
+```bash
+node prototype-chain.js
+```
+
+Example:
+
+```bash
+node generators.js
+```
+
+---
+
+## Why I Made This Repository
+
+I created this repository as part of my JavaScript learning journey. Writing code and keeping notes together helps me understand concepts better and gives me a place to revisit topics whenever I need a refresher.
+
+---
+
+## Author
+
+**Irfan Khan**
+
+Computer Science Student
+
+Currently learning JavaScript, Data Structures & Algorithms, Python, and AI.
